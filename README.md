@@ -1,1 +1,2 @@
-En este proyecto usaremos algunos comandos como cd,pwd ls entre otros
+#!/bin/bash
+En este proyecto usaremos algunos comandos como cd,pw y ls entre otros
