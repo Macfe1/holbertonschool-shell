@@ -1,2 +1,2 @@
 #!/bin/bash
-alias whoiam='hello user'
+echo 'hello user'
