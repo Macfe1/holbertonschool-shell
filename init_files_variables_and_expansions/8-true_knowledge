@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE resultado=$((128 + TRUEKNOWLEDGE)) & echo $resultado
+resultado=$((128 + TRUEKNOWLEDGE))
